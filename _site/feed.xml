@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RestaurarIA</title>
+    <description>Cine Mexicano del bueno a color.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 29 Jul 2021 00:03:24 -0500</pubDate>
+    <lastBuildDate>Thu, 29 Jul 2021 00:03:24 -0500</lastBuildDate>
+    <generator>Jekyll v3.9.1</generator>
+    
+      <item>
+        <title>RestaurarIA</title>
+        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
+        <pubDate>Thu, 16 May 2019 18:48:05 -0500</pubDate>
+        <link>http://localhost:4000/about/</link>
+        <guid isPermaLink="true">http://localhost:4000/about/</guid>
+        
+        <category>About</category>
+        
+        <category></category>
+      </item>
+    
+      <item>
+        <title>Pueblerina</title>
+        <description>&lt;h3 id=&quot;sinopsis&quot;&gt;Sinopsis&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7wkstBRXMxM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Mon, 01 Jan 1979 06:26:40 -0600</pubDate>
+        <link>http://localhost:4000/Pueblerina/</link>
+        <guid isPermaLink="true">http://localhost:4000/Pueblerina/</guid>
+        
+        <category>1948</category>
+        
+        <category></category>
+      </item>
+    
+      <item>
+        <title>Macario</title>
+        <description>&lt;h3 id=&quot;sinopsis&quot;&gt;Sinopsis&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/9dODve8PRio&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Mon, 01 Jan 1979 06:26:40 -0600</pubDate>
+        <link>http://localhost:4000/Macarrio/</link>
+        <guid isPermaLink="true">http://localhost:4000/Macarrio/</guid>
+        
+        <category>1979</category>
+        
+        <category></category>
+      </item>
+    
+      <item>
+        <title>El Brazo Fuerte</title>
+        <description>&lt;h3 id=&quot;sinopsis&quot;&gt;Sinopsis&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/e7DWYhHvsY8&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Mon, 01 Jan 1979 06:26:40 -0600</pubDate>
+        <link>http://localhost:4000/BrazoFuerte/</link>
+        <guid isPermaLink="true">http://localhost:4000/BrazoFuerte/</guid>
+        
+        <category>1979</category>
+        
+        <category></category>
+      </item>
+    
+      <item>
+        <title>La Azotea</title>
+        <description>&lt;h3 id=&quot;sinopsis&quot;&gt;Sinopsis&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/i5lFiHxG47I&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Mon, 01 Jan 1979 06:26:40 -0600</pubDate>
+        <link>http://localhost:4000/Azotea/</link>
+        <guid isPermaLink="true">http://localhost:4000/Azotea/</guid>
+        
+        <category>1979</category>
+        
+        <category></category>
+      </item>
+    
+      <item>
+        <title>Los Olvidados</title>
+        <description>&lt;h3 id=&quot;sinopsis&quot;&gt;Sinopsis&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/GPXieXDl2eo&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Mon, 01 Jan 1968 06:26:40 -0600</pubDate>
+        <link>http://localhost:4000/LosOlvidados/</link>
+        <guid isPermaLink="true">http://localhost:4000/LosOlvidados/</guid>
+        
+        <category>1968</category>
+        
+        <category></category>
+      </item>
+    
+  </channel>
+</rss>

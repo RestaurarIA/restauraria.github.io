@@ -1,0 +1,52 @@
+[
+  
+  
+    {
+      "title"    : "RestaurarIA",
+      "tags"     : "About",
+      "categories" : "ENESMorelia",
+      "url"      : "/about/",
+      "date"     : "2019"
+    } ,
+  
+    {
+      "title"    : "Pueblerina",
+      "tags"     : "1948",
+      "categories" : "Emilio",
+      "url"      : "/Pueblerina/",
+      "date"     : "1979"
+    } ,
+  
+    {
+      "title"    : "Macario",
+      "tags"     : "1979",
+      "categories" : "Jorge",
+      "url"      : "/Macarrio/",
+      "date"     : "1979"
+    } ,
+  
+    {
+      "title"    : "El Brazo Fuerte",
+      "tags"     : "1979",
+      "categories" : "EmilioCarballido",
+      "url"      : "/BrazoFuerte/",
+      "date"     : "1979"
+    } ,
+  
+    {
+      "title"    : "La Azotea",
+      "tags"     : "1979",
+      "categories" : "Jorge",
+      "url"      : "/Azotea/",
+      "date"     : "1979"
+    } ,
+  
+    {
+      "title"    : "Los Olvidados",
+      "tags"     : "1968",
+      "categories" : "EmilioCarballido",
+      "url"      : "/LosOlvidados/",
+      "date"     : "1968"
+    } 
+  
+]
