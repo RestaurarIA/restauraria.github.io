@@ -5,13 +5,13 @@
     <description>Cine Mexicano del bueno a color.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Aug 2021 22:09:52 -0500</pubDate>
-    <lastBuildDate>Thu, 05 Aug 2021 22:09:52 -0500</lastBuildDate>
+    <pubDate>Thu, 05 Aug 2021 22:13:09 -0500</pubDate>
+    <lastBuildDate>Thu, 05 Aug 2021 22:13:09 -0500</lastBuildDate>
     <generator>Jekyll v3.9.1</generator>
     
       <item>
         <title>RestaurarIA</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
+        <description>&lt;p&gt;Este es un proyecto independiente sin fines de lucro y de código abierto. Cualqueira es bienvenido a contribuir y disfrutar en el repositorio.&lt;/p&gt; &lt;p&gt;Algunas películas pueden estar sujetas a derechos de autor y pueden ser removidas sin previo aviso.&lt;/p&gt; &lt;p&gt;Si crees que existe algún problea o eres el dueño del contenido y deseas bajarlo, por favor escibe un correo para ponerte en contacto.&lt;/p&gt; &lt;p&gt;Las películas aqui mostradas han sido coloreadas por distintos contribuidores&lt;/p&gt; &lt;!-- Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere...</description>
         <pubDate>Thu, 16 May 2019 18:48:05 -0500</pubDate>
         <link>http://localhost:4000/about/</link>
         <guid isPermaLink="true">http://localhost:4000/about/</guid>
