@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Contact
-description: Let's talk.
+title: Contacto
+description: ¡Escríbenos tus comentarios!
 permalink: /contact/
 ---
-
-{% if site.email %}
 
 <style type="text/css" media="screen">
   .container {
@@ -13,6 +11,20 @@ permalink: /contact/
     max-width: 600px;
   }
 </style>
+
+{% if site.email %}
+
+<div class="container">
+
+  <h2>{{page.description}}</h2>
+
+  <div id="form" class="contact-form">
+        <button type="submit" onclick="window.location.href='mailto:{{ site.email }}'" >Enviar Mail</button>
+  </div>
+
+</div>
+
+<!-- 
 
 <div class="container">
 
@@ -75,3 +87,4 @@ new Vue({
 <script>window.location = "{% if site.url == '' and site.baseurl == '' %}/{% else %}{{ site.url }}{{ site.baseurl }}{% endif %}";</script>
 
 {% endif %}
+-->
