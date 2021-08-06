@@ -5,8 +5,8 @@
     <description>Cine Mexicano del bueno a color.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Jul 2021 00:03:24 -0500</pubDate>
-    <lastBuildDate>Thu, 29 Jul 2021 00:03:24 -0500</lastBuildDate>
+    <pubDate>Thu, 05 Aug 2021 21:49:46 -0500</pubDate>
+    <lastBuildDate>Thu, 05 Aug 2021 21:49:46 -0500</lastBuildDate>
     <generator>Jekyll v3.9.1</generator>
     
       <item>
@@ -22,77 +22,77 @@
       </item>
     
       <item>
-        <title>Pueblerina</title>
-        <description>&lt;h3 id=&quot;sinopsis&quot;&gt;Sinopsis&lt;/h3&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7wkstBRXMxM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-</description>
-        <pubDate>Mon, 01 Jan 1979 06:26:40 -0600</pubDate>
-        <link>http://localhost:4000/Pueblerina/</link>
-        <guid isPermaLink="true">http://localhost:4000/Pueblerina/</guid>
-        
-        <category>1948</category>
-        
-        <category></category>
-      </item>
-    
-      <item>
         <title>Macario</title>
-        <description>&lt;h3 id=&quot;sinopsis&quot;&gt;Sinopsis&lt;/h3&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/9dODve8PRio&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-</description>
-        <pubDate>Mon, 01 Jan 1979 06:26:40 -0600</pubDate>
-        <link>http://localhost:4000/Macarrio/</link>
-        <guid isPermaLink="true">http://localhost:4000/Macarrio/</guid>
+        <description>&lt;h3 id=&quot;comentario&quot;&gt;Comentario&lt;/h3&gt; &lt;p&gt;Macario (1959) es una película mexicana dirigida por Roberto Gavaldón, basada en la obra de Bruno Traven. El guion fue una colaboración de Emilio Carballido con Roberto Gavaldón y la fotografía estuvo a cargo de Gabriel Figueroa.&lt;/p&gt; &lt;p&gt;El largometraje narra la historia de Macario, un indígena pobre que vive atormentado por el hambre y encaprichado por no poder comerse un pavo completo él solo. Preocupada por la salud de Macario y a consecuencia de esta obsesión, su esposa roba un guajolote para cocinárselo y así consentir su deseo.&lt;/p&gt; &lt;p&gt;Tras ese gran acto, Macario se dirige al bosque para...</description>
+        <pubDate>Fri, 01 Jan 1960 06:26:40 -0600</pubDate>
+        <link>http://localhost:4000/Macario/</link>
+        <guid isPermaLink="true">http://localhost:4000/Macario/</guid>
         
-        <category>1979</category>
+        <category>1960</category>
         
         <category></category>
       </item>
     
       <item>
         <title>El Brazo Fuerte</title>
-        <description>&lt;h3 id=&quot;sinopsis&quot;&gt;Sinopsis&lt;/h3&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/e7DWYhHvsY8&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-</description>
-        <pubDate>Mon, 01 Jan 1979 06:26:40 -0600</pubDate>
+        <description>&lt;h3 id=&quot;presentación&quot;&gt;Presentación&lt;/h3&gt; &lt;p&gt;El Brazo Fuerte es una película mexicana de 1958 dirigida por Giovanni Korporaal basada en un argumento original de Juan de la Cabada. Está considerada como una de las cintas precursoras del género de la sátira política y de los rodajes independientes en México. Fue una película polémica por tratar temas políticos que no eran comunes para el cine de la época y fue fuertemente censurada durante mas de una década por el Gobierno Mexicano hasta su estreno en 1974.&lt;/p&gt; &lt;p&gt;Muchas secuencias fueron realizadas con la participación de los habitantes reales de Erongarícuaro, Michoacán, por lo que se...</description>
+        <pubDate>Wed, 01 Jan 1958 06:26:40 -0600</pubDate>
         <link>http://localhost:4000/BrazoFuerte/</link>
         <guid isPermaLink="true">http://localhost:4000/BrazoFuerte/</guid>
         
-        <category>1979</category>
+        <category>1958</category>
         
         <category></category>
       </item>
     
       <item>
         <title>La Azotea</title>
-        <description>&lt;h3 id=&quot;sinopsis&quot;&gt;Sinopsis&lt;/h3&gt;
+        <description>&lt;h3 id=&quot;presentación&quot;&gt;Presentación&lt;/h3&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/i5lFiHxG47I&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;La Azotea de Jorge Durán es un cortometraje de 1953 que explora uno de los espacios más particulares qué existe en las ciudades, las azoteas. “Un mundo desconocido” en palabras del mismo Durán. A través de su narrador y varias tomas panorámicas, La Azotea hace una reflexión sobre cómo se desarrolla la vida hacia arriba y quiénes son los personajes que la habitan.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;500wh&quot; src=&quot;https://www.youtube.com/embed/i5lFiHxG47I&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Mon, 01 Jan 1979 06:26:40 -0600</pubDate>
+        <pubDate>Thu, 01 Jan 1953 06:26:40 -0600</pubDate>
         <link>http://localhost:4000/Azotea/</link>
         <guid isPermaLink="true">http://localhost:4000/Azotea/</guid>
         
-        <category>1979</category>
+        <category>1953</category>
         
         <category></category>
       </item>
     
       <item>
         <title>Los Olvidados</title>
-        <description>&lt;h3 id=&quot;sinopsis&quot;&gt;Sinopsis&lt;/h3&gt;
+        <description>&lt;h3 id=&quot;presentación&quot;&gt;Presentación&lt;/h3&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/GPXieXDl2eo&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;Los olvidados, junto a Metrópolis de Fritz Lang, toda la cinematografía de los hermanos Lumière y El Mago de Oz, de Victor Fleming, son las únicas piezas del séptimo arte que han recibido la consideración de “Memoria del Mundo”.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;500wh&quot; src=&quot;https://www.youtube-nocookie.com/embed/GPXieXDl2eo&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 </description>
-        <pubDate>Mon, 01 Jan 1968 06:26:40 -0600</pubDate>
+        <pubDate>Sun, 01 Jan 1950 06:26:40 -0600</pubDate>
         <link>http://localhost:4000/LosOlvidados/</link>
         <guid isPermaLink="true">http://localhost:4000/LosOlvidados/</guid>
         
-        <category>1968</category>
+        <category>1950</category>
+        
+        <category></category>
+      </item>
+    
+      <item>
+        <title>Pueblerina</title>
+        <description>&lt;h3 id=&quot;sinopsis&quot;&gt;Sinopsis&lt;/h3&gt;
+
+&lt;p&gt;Tras cumplir una condena en prisión por lesionar al ranchero que abusó de su novia Paloma, el campesino Aurelio vuelve a su pueblo con la intención de reencontrarse con ella. Sin embargo, los rencores del pasado siguen latentes y amenazan sus ilusiones, que está dispuesto a defender con su propia vida. Se trata de un magistral drama rural, enmarcado por la fotografía inigualable de Gabriel Figueroa. La tierra y la mujer son aquí adoradas por su capacidad única de dar vida.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;500wh&quot; src=&quot;https://www.youtube.com/embed/7wkstBRXMxM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Sat, 01 Jan 1949 06:26:40 -0600</pubDate>
+        <link>http://localhost:4000/Pueblerina/</link>
+        <guid isPermaLink="true">http://localhost:4000/Pueblerina/</guid>
+        
+        <category>1949</category>
         
         <category></category>
       </item>

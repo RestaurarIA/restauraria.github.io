@@ -10,43 +10,43 @@
     } ,
   
     {
-      "title"    : "Pueblerina",
-      "tags"     : "1948",
-      "categories" : "Emilio",
-      "url"      : "/Pueblerina/",
-      "date"     : "1979"
-    } ,
-  
-    {
       "title"    : "Macario",
-      "tags"     : "1979",
-      "categories" : "Jorge",
-      "url"      : "/Macarrio/",
-      "date"     : "1979"
+      "tags"     : "1960",
+      "categories" : "Roberto",
+      "url"      : "/Macario/",
+      "date"     : "1960"
     } ,
   
     {
       "title"    : "El Brazo Fuerte",
-      "tags"     : "1979",
-      "categories" : "EmilioCarballido",
+      "tags"     : "1958",
+      "categories" : "Giovanni",
       "url"      : "/BrazoFuerte/",
-      "date"     : "1979"
+      "date"     : "1958"
     } ,
   
     {
       "title"    : "La Azotea",
-      "tags"     : "1979",
+      "tags"     : "1953",
       "categories" : "Jorge",
       "url"      : "/Azotea/",
-      "date"     : "1979"
+      "date"     : "1953"
     } ,
   
     {
       "title"    : "Los Olvidados",
-      "tags"     : "1968",
-      "categories" : "EmilioCarballido",
+      "tags"     : "1950",
+      "categories" : "Buñuel",
       "url"      : "/LosOlvidados/",
-      "date"     : "1968"
+      "date"     : "1950"
+    } ,
+  
+    {
+      "title"    : "Pueblerina",
+      "tags"     : "1949",
+      "categories" : "Emilio",
+      "url"      : "/Pueblerina/",
+      "date"     : "1949"
     } 
   
 ]
