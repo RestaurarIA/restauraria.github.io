@@ -7,7 +7,7 @@ subtitle:
 description: 
 tags:
   - "1949"
-author: Emilio
+author: Emilio Fernández
 ---
 
 ### Sinopsis

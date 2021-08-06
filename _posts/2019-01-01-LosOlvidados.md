@@ -7,7 +7,7 @@ subtitle:
 description: 
 tags:
   - "1950"
-author: Buñuel
+author: Luis Buñuel
 ---
 
 ### Presentación
