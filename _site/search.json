@@ -10,6 +10,22 @@
     } ,
   
     {
+      "title"    : "Dias de Otoño",
+      "tags"     : "1963",
+      "categories" : "Roberto",
+      "url"      : "/Dias/",
+      "date"     : "1963"
+    } ,
+  
+    {
+      "title"    : "Los Hermanos de Hierro",
+      "tags"     : "1961",
+      "categories" : "Ismael",
+      "url"      : "/Hermanos/",
+      "date"     : "1961"
+    } ,
+  
+    {
       "title"    : "Macario",
       "tags"     : "1960",
       "categories" : "Roberto",
@@ -47,6 +63,22 @@
       "categories" : "Emilio",
       "url"      : "/Pueblerina/",
       "date"     : "1949"
+    } ,
+  
+    {
+      "title"    : "La Perla",
+      "tags"     : "1947",
+      "categories" : "Emilio",
+      "url"      : "/Perla/",
+      "date"     : "1947"
+    } ,
+  
+    {
+      "title"    : "Cortos",
+      "tags"     : "1936",
+      "categories" : "",
+      "url"      : "/Cortos/",
+      "date"     : "1936"
     } 
   
 ]

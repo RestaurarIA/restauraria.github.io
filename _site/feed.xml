@@ -5,8 +5,8 @@
     <description>Cine Mexicano del bueno a color.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Aug 2021 21:49:46 -0500</pubDate>
-    <lastBuildDate>Thu, 05 Aug 2021 21:49:46 -0500</lastBuildDate>
+    <pubDate>Thu, 05 Aug 2021 22:09:52 -0500</pubDate>
+    <lastBuildDate>Thu, 05 Aug 2021 22:09:52 -0500</lastBuildDate>
     <generator>Jekyll v3.9.1</generator>
     
       <item>
@@ -17,6 +17,36 @@
         <guid isPermaLink="true">http://localhost:4000/about/</guid>
         
         <category>About</category>
+        
+        <category></category>
+      </item>
+    
+      <item>
+        <title>Dias de Otoño</title>
+        <description>&lt;h3 id=&quot;comentario&quot;&gt;Comentario&lt;/h3&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;500wh&quot; src=&quot;https://www.youtube.com/embed/SQim3aNBClc&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Tue, 01 Jan 1963 06:26:40 -0600</pubDate>
+        <link>http://localhost:4000/Dias/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dias/</guid>
+        
+        <category>1963</category>
+        
+        <category></category>
+      </item>
+    
+      <item>
+        <title>Los Hermanos de Hierro</title>
+        <description>&lt;h3 id=&quot;comentario&quot;&gt;Comentario&lt;/h3&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;500wh&quot; src=&quot;https://www.youtube.com/embed/h7F-mwWILWE&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Sun, 01 Jan 1961 06:26:40 -0600</pubDate>
+        <link>http://localhost:4000/Hermanos/</link>
+        <guid isPermaLink="true">http://localhost:4000/Hermanos/</guid>
+        
+        <category>1961</category>
         
         <category></category>
       </item>
@@ -93,6 +123,40 @@
         <guid isPermaLink="true">http://localhost:4000/Pueblerina/</guid>
         
         <category>1949</category>
+        
+        <category></category>
+      </item>
+    
+      <item>
+        <title>La Perla</title>
+        <description>&lt;h3 id=&quot;sinopsis&quot;&gt;Sinopsis&lt;/h3&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;500wh&quot; src=&quot;https://www.youtube.com/embed/bXz2XZ0g10A&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Wed, 01 Jan 1947 06:26:40 -0600</pubDate>
+        <link>http://localhost:4000/Perla/</link>
+        <guid isPermaLink="true">http://localhost:4000/Perla/</guid>
+        
+        <category>1947</category>
+        
+        <category></category>
+      </item>
+    
+      <item>
+        <title>Cortos</title>
+        <description>&lt;h3 id=&quot;xochimilco-1936&quot;&gt;Xochimilco (1936)&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/sHsaesp5JY4&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;partido-racing-argentina-vs-atlante-1947&quot;&gt;Partido Racing Argentina vs Atlante (1947)&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/FGMjyg6jaA4&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Wed, 01 Jan 1936 06:26:40 -0600</pubDate>
+        <link>http://localhost:4000/Cortos/</link>
+        <guid isPermaLink="true">http://localhost:4000/Cortos/</guid>
+        
+        <category>1936</category>
         
         <category></category>
       </item>
