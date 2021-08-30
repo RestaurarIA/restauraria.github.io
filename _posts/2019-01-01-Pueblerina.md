@@ -3,10 +3,9 @@ date: 1949-01-01 12:26:40
 layout: post
 title: Pueblerina
 image: "https://img.youtube.com/vi/7wkstBRXMxM/mqdefault.jpg"
-subtitle: 
-description: 
 tags:
   - "1949"
+  - "1080P"
 author: Emilio Fernández
 ---
 

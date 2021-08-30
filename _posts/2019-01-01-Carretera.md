@@ -3,10 +3,11 @@ date: 1936-01-01 12:26:40
 layout: post
 title: Carretera MEX - GDL 
 image: 
-subtitle: 
-description: 
+featured: true
 tags:
   - "1936"
+  - "2K"
+  - "60FPS"
 author: Gregorio Castillo
 ---
 

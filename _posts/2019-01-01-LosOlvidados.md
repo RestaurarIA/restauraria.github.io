@@ -3,10 +3,10 @@ date: 1950-01-01 12:26:40
 layout: post
 title: Los Olvidados
 image: "/assets/img/peliculas/losolvidados.png"
-subtitle: 
-description: 
+featured: true
 tags:
   - "1950"
+  - "2K"
 author: Luis Buñuel
 ---
 

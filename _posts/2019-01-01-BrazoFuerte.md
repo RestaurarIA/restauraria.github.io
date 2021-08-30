@@ -3,10 +3,10 @@ date: 1958-01-01 12:26:40
 layout: post
 title: El Brazo Fuerte
 image: "/assets/img/peliculas/brazofuerte.jpg"
-subtitle: 
-description: 
+featured: true
 tags:
   - "1958"
+  - "2K"
 author: Giovanni Korporaal
 ---
 

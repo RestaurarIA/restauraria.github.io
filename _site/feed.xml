@@ -5,8 +5,8 @@
     <description>Cine Mexicano del bueno a color.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Aug 2021 01:00:50 -0500</pubDate>
-    <lastBuildDate>Fri, 06 Aug 2021 01:00:50 -0500</lastBuildDate>
+    <pubDate>Mon, 30 Aug 2021 12:13:25 -0500</pubDate>
+    <lastBuildDate>Mon, 30 Aug 2021 12:13:25 -0500</lastBuildDate>
     <generator>Jekyll v3.9.1</generator>
     
       <item>
@@ -33,6 +33,8 @@
         
         <category>1963</category>
         
+        <category>1080P</category>
+        
         <category></category>
       </item>
     
@@ -48,6 +50,8 @@
         
         <category>1961</category>
         
+        <category>1080P</category>
+        
         <category></category>
       </item>
     
@@ -60,6 +64,10 @@
         
         <category>1960</category>
         
+        <category>1080P</category>
+        
+        <category>60FPS</category>
+        
         <category></category>
       </item>
     
@@ -71,6 +79,8 @@
         <guid isPermaLink="true">http://localhost:4000/BrazoFuerte/</guid>
         
         <category>1958</category>
+        
+        <category>2K</category>
         
         <category></category>
       </item>
@@ -88,6 +98,10 @@
         <guid isPermaLink="true">http://localhost:4000/Azotea/</guid>
         
         <category>1953</category>
+        
+        <category>2K</category>
+        
+        <category>60FPS</category>
         
         <category></category>
       </item>
@@ -107,6 +121,8 @@
         
         <category>1950</category>
         
+        <category>2K</category>
+        
         <category></category>
       </item>
     
@@ -124,6 +140,8 @@
         
         <category>1949</category>
         
+        <category>1080P</category>
+        
         <category></category>
       </item>
     
@@ -138,6 +156,8 @@
         <guid isPermaLink="true">http://localhost:4000/Perla/</guid>
         
         <category>1947</category>
+        
+        <category>1080P</category>
         
         <category></category>
       </item>
@@ -157,6 +177,29 @@
         <guid isPermaLink="true">http://localhost:4000/Cortos/</guid>
         
         <category>1936</category>
+        
+        <category>2K</category>
+        
+        <category>60FPS</category>
+        
+        <category></category>
+      </item>
+    
+      <item>
+        <title>Carretera MEX - GDL</title>
+        <description>&lt;h3 id=&quot;carretera-méxico---guadalajara-1936&quot;&gt;Carretera México - Guadalajara (1936)&lt;/h3&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;500wh&quot; src=&quot;https://www.youtube.com/embed/qAwcTELvqlo&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Wed, 01 Jan 1936 06:26:40 -0600</pubDate>
+        <link>http://localhost:4000/Carretera/</link>
+        <guid isPermaLink="true">http://localhost:4000/Carretera/</guid>
+        
+        <category>1936</category>
+        
+        <category>2K</category>
+        
+        <category>60FPS</category>
         
         <category></category>
       </item>

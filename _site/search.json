@@ -4,14 +4,14 @@
     {
       "title"    : "RestaurarIA",
       "tags"     : "About",
-      "categories" : "ENESMorelia",
+      "categories" : "Rodrigo Cortez",
       "url"      : "/about/",
       "date"     : "2019"
     } ,
   
     {
       "title"    : "Dias de Otoño",
-      "tags"     : "1963",
+      "tags"     : "1963 and 1080P",
       "categories" : "Roberto Gavaldón",
       "url"      : "/Dias/",
       "date"     : "1963"
@@ -19,7 +19,7 @@
   
     {
       "title"    : "Los Hermanos de Hierro",
-      "tags"     : "1961",
+      "tags"     : "1961 and 1080P",
       "categories" : "Ismael Rodriguez",
       "url"      : "/Hermanos/",
       "date"     : "1961"
@@ -27,7 +27,7 @@
   
     {
       "title"    : "Macario",
-      "tags"     : "1960",
+      "tags"     : "1960, 1080P, and 60FPS",
       "categories" : "Roberto Gavaldón",
       "url"      : "/Macario/",
       "date"     : "1960"
@@ -35,7 +35,7 @@
   
     {
       "title"    : "El Brazo Fuerte",
-      "tags"     : "1958",
+      "tags"     : "1958 and 2K",
       "categories" : "Giovanni Korporaal",
       "url"      : "/BrazoFuerte/",
       "date"     : "1958"
@@ -43,7 +43,7 @@
   
     {
       "title"    : "La Azotea",
-      "tags"     : "1953",
+      "tags"     : "1953, 2K, and 60FPS",
       "categories" : "Jorge Durán",
       "url"      : "/Azotea/",
       "date"     : "1953"
@@ -51,7 +51,7 @@
   
     {
       "title"    : "Los Olvidados",
-      "tags"     : "1950",
+      "tags"     : "1950 and 2K",
       "categories" : "Luis Buñuel",
       "url"      : "/LosOlvidados/",
       "date"     : "1950"
@@ -59,7 +59,7 @@
   
     {
       "title"    : "Pueblerina",
-      "tags"     : "1949",
+      "tags"     : "1949 and 1080P",
       "categories" : "Emilio Fernández",
       "url"      : "/Pueblerina/",
       "date"     : "1949"
@@ -67,7 +67,7 @@
   
     {
       "title"    : "La Perla",
-      "tags"     : "1947",
+      "tags"     : "1947 and 1080P",
       "categories" : "Emilio Fernández",
       "url"      : "/Perla/",
       "date"     : "1947"
@@ -75,9 +75,17 @@
   
     {
       "title"    : "Cortos",
-      "tags"     : "1936",
+      "tags"     : "1936, 2K, and 60FPS",
       "categories" : "",
       "url"      : "/Cortos/",
+      "date"     : "1936"
+    } ,
+  
+    {
+      "title"    : "Carretera MEX - GDL",
+      "tags"     : "1936, 2K, and 60FPS",
+      "categories" : "Gregorio Castillo",
+      "url"      : "/Carretera/",
       "date"     : "1936"
     } 
   
